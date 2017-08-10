@@ -1,0 +1,3 @@
+package fakedep
+
+func Welp() {}
